@@ -46,7 +46,9 @@
         android:layout_height="60dp"
         android:layout_margin="20dp"
         app:backgroundColor="@color/colorPrimary"
+        app:loadingColor="@color/colorPrimaryDark"
         app:textColor="@color/white"
+        app:circleColor="@color/colorAccent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
